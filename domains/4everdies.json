@@ -16,11 +16,6 @@
     },
     "4everdies": {
       "CNAME": "24b5eaae4a0afec2.vercel-dns-017.com"
-    },
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=4everdies.runs-on.dev,d30e83b902e08bf04307"
-      ]
     }
   }
 }

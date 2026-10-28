@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cb7a455fbfa3132e.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=shauryakohli.runs-on.dev,567fd6da77803b0c6fe1"
-      ]
-    }
-  }
+  "country": "IN"
 }

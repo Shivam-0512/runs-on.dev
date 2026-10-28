@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "9c74809104c0bcf1.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=abbas-mojiz.runs-on.dev,408759559329fbca2bb5"
-      ]
-    }
-  }
+  "country": "IN"
 }

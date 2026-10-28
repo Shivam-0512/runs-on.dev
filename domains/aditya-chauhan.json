@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "a06facfb526858c0.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=aditya-chauhan.runs-on.dev,366e744d609724ac12fe"
-      ]
-    }
-  }
+  "country": "IN"
 }

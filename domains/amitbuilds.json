@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "c746bb9fe65e3148.vercel-dns-017.com"
   },
-  "country": "NP",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=amitbuilds.runs-on.dev,1e192add40f23f63da49"
-      ]
-    }
-  }
+  "country": "NP"
 }

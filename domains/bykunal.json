@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "kunal-port.pages.dev"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=bykunal.runs-on.dev,be93afd8580726ed8e8b"
-      ]
-    }
-  }
+  "country": "IN"
 }
