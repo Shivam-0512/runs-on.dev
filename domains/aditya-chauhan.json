@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=runs-on.dev,05b5da634d132f151032"
+        "vc-domain-verify=aditya-chauhan.runs-on.dev,366e744d609724ac12fe"
       ]
     }
   }
