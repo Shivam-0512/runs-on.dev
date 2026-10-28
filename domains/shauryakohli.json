@@ -4,6 +4,8 @@
     "github": "Tanji-web"
   },
   "claimedAt": "2026-10-28T12:29:43.773Z",
-  "records": {},
+  "records": {
+    "CNAME": "cb7a455fbfa3132e.vercel-dns-017.com"
+  },
   "country": "IN"
 }
