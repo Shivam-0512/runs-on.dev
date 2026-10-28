@@ -4,6 +4,8 @@
     "github": "vir3sh"
   },
   "claimedAt": "2026-10-24T06:15:59.947Z",
-  "records": {},
+  "records": {
+    "CNAME": "1adbd3bb9a80158f.vercel-dns-017.com"
+  },
   "country": "IN"
 }
