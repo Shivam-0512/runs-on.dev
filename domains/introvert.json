@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "71cf1018cd062f4c.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=introvert.runs-on.dev,e85fcbbab803a4a35495"
+      ]
+    }
+  }
 }
