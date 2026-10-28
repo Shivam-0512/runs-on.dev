@@ -4,6 +4,8 @@
     "github": "mojizatoffice-sys"
   },
   "claimedAt": "2026-10-27T13:19:04.829Z",
-  "records": {},
+  "records": {
+    "CNAME": "9c74809104c0bcf1.vercel-dns-017.com"
+  },
   "country": "IN"
 }
