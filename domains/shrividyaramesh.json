@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "09c98b2cab663478.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=shrividyaramesh.runs-on.dev,e9cc37869346c3a311b3"
+      ]
+    }
+  }
 }
