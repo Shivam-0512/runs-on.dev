@@ -11,6 +11,9 @@
   "subdomains": {
     "unnatiatmkmp": {
       "CNAME": "bdc2a6612e051aed.vercel-dns-017.com"
+    },
+    "da2j2b6q7wyz": {
+      "CNAME": "gv-4gpxphf5auakt2.dv.googlehosted.com"
     }
   }
 }
