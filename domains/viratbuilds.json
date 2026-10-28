@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "cdff450fe496b368.vercel-dns-017.com"
   },
-  "country": "US"
+  "country": "US",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=viratbuilds.runs-on.dev,e6380d5ea4b608ac3039"
+      ]
+    }
+  }
 }
