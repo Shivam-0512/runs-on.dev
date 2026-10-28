@@ -9,9 +9,9 @@
   },
   "country": "IN",
   "subdomains": {
-    "school": {
+    "_vercel": {
       "TXT": [
-        "1d8825594838299e7dd828fa21c09dc4"
+        "vc-domain-verify=school.alex.runs-on.dev,a7eb79fe5caadae3d9dd"
       ]
     }
   }
