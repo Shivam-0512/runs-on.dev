@@ -4,6 +4,8 @@
     "github": "viratk-dev"
   },
   "claimedAt": "2026-10-28T02:15:12.334Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "US"
 }
