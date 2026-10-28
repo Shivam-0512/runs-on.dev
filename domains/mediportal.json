@@ -7,5 +7,10 @@
   "records": {
     "CNAME": "mediportal-staging.onrender.com"
   },
-  "country": "AR"
+  "country": "AR",
+  "subdomains": {
+    "segundoportal": {
+      "CNAME": "mediportal-staging.onrender.com"
+    }
+  }
 }
