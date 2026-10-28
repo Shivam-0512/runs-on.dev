@@ -9,9 +9,9 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
+    "_github-pages-challenge": {
       "TXT": [
-        "vc-domain-verify=school.alex.runs-on.dev,a7eb79fe5caadae3d9dd"
+        "7dcc12f563f6bf5d97a88100dd34c1"
       ]
     }
   }
