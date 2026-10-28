@@ -4,6 +4,8 @@
     "github": "amitKhayargoli"
   },
   "claimedAt": "2026-10-28T09:04:54.837Z",
-  "records": {},
+  "records": {
+    "CNAME": "c746bb9fe65e3148.vercel-dns-017.com"
+  },
   "country": "NP"
 }
