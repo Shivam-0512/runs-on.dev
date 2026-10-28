@@ -9,10 +9,8 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=school.alex.runs-on.dev,a7eb79fe5caadae3d9dd"
-      ]
+    "school": {
+      "CNAME": "jralex07.github.io"
     }
   }
 }
