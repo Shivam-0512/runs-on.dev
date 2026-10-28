@@ -6,5 +6,10 @@
   "claimedAt": "2026-09-02T05:30:01.712Z",
   "records": {
     "CNAME": "matoanselmo.github.io"
+  },
+  "subdomains": {
+    "server": {
+      "CNAME": "matoanselmo.github.io"
+    }
   }
 }
