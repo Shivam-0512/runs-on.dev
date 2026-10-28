@@ -4,6 +4,8 @@
     "github": "introvertfr"
   },
   "claimedAt": "2026-10-28T10:08:11.672Z",
-  "records": {},
+  "records": {
+    "CNAME": "71cf1018cd062f4c.vercel-dns-017.com"
+  },
   "country": "IN"
 }
