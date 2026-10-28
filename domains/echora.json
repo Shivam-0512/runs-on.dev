@@ -4,6 +4,8 @@
     "github": "mteckhq"
   },
   "claimedAt": "2026-10-28T14:34:50.786Z",
-  "records": {},
+  "records": {
+    "CNAME": "26f7959f52dcb5a3.vercel-dns-017.com"
+  },
   "country": "LK"
 }
